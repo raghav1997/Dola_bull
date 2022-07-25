@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.Background {
+  background-image: url(E:\react\test\dola\src\images\background.png);
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
